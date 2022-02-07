@@ -17,7 +17,8 @@ avatar: https://picrew.me/image_maker/1435637
 
 -->
 
-- 🧬 I’m a Drug Discovery Researcher, working on Front-End projects and Datascience applied to Drug Discovery. I'm currently Learning Python, React, JavaScript, HTML5 and CSS3.
+- 🧬 I’m a Drug Discovery Researcher, working on Front-End projects and Datascience applied to Drug Discovery. 
+- 🌱 Python, React, JavaScript, HTML5 and CSS3 learner.
 - 📫 How to reach me: rrodrigues.code@gmail.com
 
 <div align="center">
