@@ -17,15 +17,13 @@ avatar: https://picrew.me/image_maker/1435637
 
 -->
 
-- 🧬 I’m a Drug Discovery Researcher
-- 🔭 I’m currently working on Front-End projects and Datascience.
-- 🌱 I’m currently learning Python, React, JavaScript, HTML5 and CSS3.
+- 🧬 I’m a Drug Discovery Researcher, working on Front-End projects and Datascience applied to Drug Discovery. I'm currently Learning Python, React, JavaScript, HTML5 and CSS3.
 - 📫 How to reach me: rrodrigues.code@gmail.com
 
 <div align="center">
   <a href="https://github.com/rrodrigues345">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rrodrigues345&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrodrigues345&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rrodrigues345&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrodrigues345&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -49,7 +47,8 @@ avatar: https://picrew.me/image_maker/1435637
   <a href = "mailto:rrodrigues.code@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rrodrigues345" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-## Snake game on my github commits!
+   
+## Snake game on my commits!
   ![Snake animation](https://github.com/rrodrigues345/rrodrigues345/blob/output/github-contribution-grid-snake.svg)  
 </div>
   
