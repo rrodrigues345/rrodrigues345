@@ -3,8 +3,6 @@
 <!--
 **rrodrigues345/rrodrigues345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Front-End projects
 - | Drug Discovery Researcher🧬 | Scientist | Linux user |
 - 🌱 I’m currently learning Python, React, JavaScript, HTML5 and CSS3.
@@ -14,4 +12,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: rrodrigues.edu@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
+- 🧬 I’m a Drug Discovery Researcher
+- 🔭 I’m currently working on Front-End projects
+- 🌱 I’m currently learning Python, React, JavaScript, HTML5 and CSS3.
+- 📫 How to reach me: rrodrigues.edu@gmail.com
+
