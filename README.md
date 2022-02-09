@@ -17,8 +17,8 @@ avatar: https://picrew.me/image_maker/1435637
 
 -->
 
-- 🧬 I’m a Drug Discovery Researcher, working on Front-End projects and Datascience applied to Drug Discovery. 
-- 🌱 Python, React, JavaScript, HTML5 and CSS3 learner.
+- 🧬 I’m a Drug Discovery Researcher, working on Front-End projects and Datascience. 
+- 🌱 Currently working with: Python, React, JavaScript, HTML5 and CSS3.
 - 📫 How to reach me: rrodrigues.code@gmail.com
 
 <div align="center">
@@ -39,7 +39,7 @@ avatar: https://picrew.me/image_maker/1435637
 </div>
   
   ##
- 
+ #### You may find me here, also:
  <div>
    <a href="https://www.youtube.com/channel/UCncgz7MAE8eWgp72VaKdbIw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rrodrigues.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -48,8 +48,8 @@ avatar: https://picrew.me/image_maker/1435637
   <a href = "mailto:rrodrigues.code@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rrodrigues345" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+##
    
-## Snake game on my commits!
   ![Snake animation](https://github.com/rrodrigues345/rrodrigues345/blob/output/github-contribution-grid-snake.svg)  
 </div>
   
