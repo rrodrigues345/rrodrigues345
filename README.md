@@ -1,4 +1,4 @@
-### Hi I'm Ricardo Rodrigues 👋
+
 
 <!--
 **rrodrigues345/rrodrigues345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,9 +17,13 @@ avatar: https://picrew.me/image_maker/1435637
 
 -->
 
+### Hi! I'm Ricardo Rodrigues 👋!
+
 - 🧬 Drug Discovery Researcher & Developer.
-- 🌱 Currently working with: HTML5, CSS3, Javascript, Ruby.
-- 📫 How to reach me: rrodrigues.code@gmail.com
+- 🌱 Currently working with: Linux, Shell Script, Python, JavaScript, Ruby, HTML
+- 📫 How to reach me: 
+  - rrodrigues.code@gmail.com
+  - https://www.linkedin.com/in/rrodrigues345
 
 <div align="center">
   <a href="https://github.com/rrodrigues345">
