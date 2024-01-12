@@ -3,9 +3,9 @@
 <!--
 **rrodrigues345/rrodrigues345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on Front-End projects
+- 🔭 I’m currently working on Front-End & Data Science projects
 - | Drug Discovery Researcher🧬 | Scientist | Linux user |
-- 🌱 I’m currently learning Python, React, JavaScript, HTML5 and CSS3.
+- 🌱 I’m currently learning Python, JavaScript, HTML5 and CSS3.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -19,11 +19,13 @@ avatar: https://picrew.me/image_maker/1435637
 
 ### Hi! I'm Ricardo Rodrigues 👋!
 
+- 🔭 I’m currently working on Front-End & Data Science projects
 - 🧬 Drug Discovery Researcher & Developer.
-- 🌱 Currently working with: Linux, Shell Script, Python, JavaScript, Ruby, HTML
+- 🌱 I'm currently learning: Python, Ruby, HTML+CSS
 - 📫 How to reach me: 
   - rrodrigues.code@gmail.com
   - https://www.linkedin.com/in/rrodrigues345
+  - https://rrodrigues345.github.io
 
 <div align="center">
   <a href="https://github.com/rrodrigues345">
